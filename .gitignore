@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.rar
+*.zip
+catboost_info/
+.DS_Store
+*.log
+data/img*/
